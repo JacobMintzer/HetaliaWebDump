@@ -1,0 +1,180 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>ずろうの棲処</title>
+<style type="text/css">
+<!--
+BODY {
+  BACKGROUND-POSITION: 100% 100%;
+  BACKGROUND-ATTACHMENT: fixed;
+  background-image : url(zurouhpkabe.gif);
+  BACKGROUND-REPEAT: no-repeat
+;
+}
+-->
+</style>
+<link rel="stylesheet" href="table1.css" type="text/css" id="_HPB_TABLE_CSS_ID_">
+<script language="JavaScript">
+<!--HPB_SCRIPT_ROV_50
+//
+//  Licensed Materials - Property of IBM
+//  5724I83
+//  (C) Copyright IBM Corp. 1995, 2005 All Rights Reserved.
+//
+
+// HpbImgPreload:
+//
+function HpbImgPreload()
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var imgName = HpbImgPreload.arguments[0];
+      var cnt;
+      swImg[imgName] = new Array;
+      for (cnt = 1; cnt < HpbImgPreload.arguments.length; cnt++)
+      {
+        swImg[imgName][HpbImgPreload.arguments[cnt]] = new Image();
+        swImg[imgName][HpbImgPreload.arguments[cnt]].src = HpbImgPreload.arguments[cnt];
+      }
+    }
+  }
+}
+// HpbImgFind:
+//
+function HpbImgFind(doc, imgName)
+{
+  for (var i=0; i < doc.layers.length; i++)
+  {
+    var img = doc.layers[i].document.images[imgName];
+    if (!img) img = HpbImgFind(doc.layers[i], imgName);
+    if (img) return img;
+  }
+  return null;
+}
+// HpbImgSwap:
+//
+function HpbImgSwap(imgName, imgSrc)
+{
+  var appVer=parseInt(navigator.appVersion);
+  var isNC=false,isN6=false,isIE=false;
+  if (document.all && appVer >= 4) isIE=true; else
+    if (document.getElementById && appVer > 4) isN6=true; else
+      if (document.layers && appVer >= 4) isNC=true;
+  if (isNC||isN6||isIE)
+  {
+    if (document.images)
+    {
+      var img = document.images[imgName];
+      if (!img) img = HpbImgFind(document, imgName);
+      if (img) img.src = imgSrc;
+    }
+  }
+}
+var swImg; swImg=new Array;
+//-->
+</script><script language="JavaScript">
+<!--HPB_SCRIPT_PLD_50
+HpbImgPreload('_HPB_ROLLOVER1', 'jinb1.gif', 'jinb2.gif');
+HpbImgPreload('_HPB_ROLLOVER2', 'spt1.gif', 'spt2.gif');
+HpbImgPreload('_HPB_ROLLOVER3', 'dwnr1.gif', 'dwnr2.gif');
+//-->
+</script></head>
+<body topmargin="0" marginheight="0" text="#cccccc" vlink="#cc0000" alink="#999999" link="#f20000" bgcolor="#b50000" background="hetakabe02.gif">
+<center>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tbody>
+    <tr>
+      <td rowspan="2" width="12" background="zurohasi.gif" bgcolor="#fdfcf7"></td>
+      <td width="582" bgcolor="#fdfcf7" height="177" align="center"><object codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version="7,0,0,0"' height="200" width="580" align="middle" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"><param name="_cx" value="15346"><param name="_cy" value="5292"><param name="FlashVars" value=""><param name="Movie" value="zurou.swf"><param name="Src" value="zurou.swf"><param name="WMode" value="Window"><param name="Play" value="-1"><param name="Loop" value="-1"><param name="Quality" value="High"><param name="SAlign" value=""><param name="Menu" value="-1"><param name="Base" value=""><param name="AllowScriptAccess" value="sameDomain"><param name="Scale" value="ShowAll"><param name="DeviceFont" value="0"><param name="EmbedMovie" value="0"><param name="BGColor" value=""><param name="SWRemote" value=""><param name="MovieData" value=""><param name="SeamlessTabbing" value="1"><param name="Profile" value="0"><param name="ProfileAddress" value=""><param name="ProfilePort" value="0"><param name="AllowNetworking" value="all"><param name="AllowFullScreen" value="false">
+                                            <comment name="DESIGNTIME"><comment 
+      name="DESIGNTIME"><embed       src="zurou.swf" quality="high" width="580" 
+      height="200" align="middle"       allowScriptAccess="sameDomain" 
+      type="application/x-shockwave-flash"       
+      pluginspage="http://www.macromedia.com/go/getflashplayer"></object></object></comment></object></comment><br>
+      <table>
+        <tbody>
+          <tr>
+            <td width="202"><img height="40" src="zurobana2.jpg" width="200" border="0"></td>
+            <td width="322"><font size="-1">このページはゲームずろうの棲処(前・後編）のサイトです。<br>
+            リンクは好きに貼ってくださると嬉しいです。</font></td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+      <td rowspan="2" width="12" background="zurohasi2.gif"></td>
+    </tr>
+    <tr>
+      <td bgcolor="#fdfcf7" valign="top" align="center" height="475"><img height="173" src="stzr.jpg" width="580" border="0"><br>
+      <a id="_HPB_ROLLOVER1" onmouseover="HpbImgSwap('_HPB_ROLLOVER1', 'jinb2.gif');" onmouseout ="HpbImgSwap('_HPB_ROLLOVER1', 'jinb1.gif');" href="zk.htm" ><img height="129" src="jinb1.gif" width="186" border="0" name="_HPB_ROLLOVER1"></a><a id="_HPB_ROLLOVER2" onmouseover="HpbImgSwap('_HPB_ROLLOVER2', 'spt2.gif');" onmouseout ="HpbImgSwap('_HPB_ROLLOVER2', 'spt1.gif');" href="spcz.htm" ><img height="129" src="spt1.gif" width="186" border="0" name="_HPB_ROLLOVER2"></a>　<a id="_HPB_ROLLOVER3" onmouseover="HpbImgSwap('_HPB_ROLLOVER3', 'dwnr2.gif');" onmouseout ="HpbImgSwap('_HPB_ROLLOVER3', 'dwnr1.gif');" href="#" ><img height="129" src="dwnr1.gif" width="186" border="0" name="_HPB_ROLLOVER3"></a><br>
+      <br>
+      <br>
+      <table width="580" cellpadding="1" cellspacing="0">
+        <tbody>
+          <tr>
+            <td width="188" height="147"><img height="145" src="193.jpg" width="193" border="0"></td>
+            <td width="193" height="147"><img height="145" src="1931.png" width="193" border="0"></td>
+            <td width="193" height="147"><img height="145" src="1932.jpg" width="193" border="0"></td>
+          </tr>
+          <tr>
+            <td height="150"><img height="145" src="1936.jpg" width="193" border="0"></td>
+            <td height="150"><img height="145" src="1934.jpg" width="193" border="0"></td>
+            <td height="150"><img height="145" src="1935.png" width="193" border="0"></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <br>
+      「ずろうの棲処　前・後編」<br>
+      <table cellspacing="2">
+        <tbody>
+          <tr>
+            <td align="left" width="81"><font size="-1">ジャンル</font></td>
+            <td width="231"><font size="-1">ホラー乙女ゲー</font></td>
+          </tr>
+          <tr>
+            <td align="left" width="81"><font size="-1">配布形態</font></td>
+            <td width="231"><font size="-1">前後編ともネット上でフリー配布</font></td>
+          </tr>
+          <tr>
+            <td align="left" width="81"><font size="-1">対応OS</font></td>
+            <td width="231"><font size="-1">WINDOWS　９８、ME、２０００、XP</font></td>
+          </tr>
+          <tr>
+            <td align="left" width="81"><font size="-1">推奨メモリ</font></td>
+            <td width="231"><font size="-1">２５６M以上</font></td>
+          </tr>
+          <tr>
+            <td align="left" width="81"><font size="-1">サウンド</font></td>
+            <td width="231"><font size="-1">WAVE形式が再生可能な環境</font></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <font size="-1"><a href="zrss.htm">ずろうの棲処おまけバージョンの情報はこちら</a><br>
+      無事収録されたCDは配布されたようです。<br>
+<br>
+このゲームはバルヨナの製作が終わるまで現在凍結中です。<br>
+前編は大幅に変わる予定のため、現在のバージョンは近日配布停止し<br>
+それに伴い一時的に配布した後編（仮）も当面の公表、配布を停止します。<br>
+旧前編、後編（仮）の二次配布は禁止しています。<br>
+
+
+      </font><br>
+      <br>
+      <a href="t.html"><img height="46" src="zhyousi.gif" width="200" border="0"></a></td>
+    </tr>
+  </tbody>
+</table>
+</center>
+</body>
+</html>
+<!-- text below generated by geocities.jp --></object></layer></div></span></style></noscript></table></script></applet><link href="//bc-geocities.yahoo.co.jp/js/no.css" rel="stylesheet" type="text/css"><script language="javascript">var jps=382116061;var jpt=1554042984</script><script language="javascript" src="//bc-geocities.yahoo.co.jp/js/no.js"></script><script language="javascript" src="//bc-geocities.yahoo.co.jp/js/geov2.js"></script><script language="javascript">geovisit();</script>

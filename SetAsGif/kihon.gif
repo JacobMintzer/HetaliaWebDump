@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+BODY {
+	FONT-SIZE: 10pt
+}
+TD {
+	FONT-SIZE: 10pt
+}
+BODY {
+	BACKGROUND-ATTACHMENT: fixed;
+	BACKGROUND-IMAGE: url(kita_kabe.gif);
+	BACKGROUND-REPEAT: repeat-x;
+	BACKGROUND-COLOR: #ffffff;
+	text-align: center;
+}
+A {
+	TEXT-DECORATION: none
+}
+nlwButtonDiv{
+　　 display:none;
+　　 } 
